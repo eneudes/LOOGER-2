@@ -1,0 +1,521 @@
+ [
+  {
+    "id": 1,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240812_PAULO_LEMOS_SONORA_QUALI_02",
+    "descricao": "paulo lemos;sonora;camisa azul;camisa vinho;qualy",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240812_PAULO_LEMOS_SONORA_QUALI_02"
+  },
+  {
+    "id": 2,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240813_PAULO_LEMOS_COMPOSIÇÕES_FEIRA_EQUIPE02",
+    "descricao": "farinha;portrait;portrait feira;castanha para;horta;verdura",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240813_PAULO_LEMOS_COMPOSIÇÕES_FEIRA_EQUIPE02\\240813_PAULO_LEMOS_COMPOSIÇÕES_FEIRA_EQUIPE02_BLACK_CARD01"
+  },
+  {
+    "id": 3,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240813_PAULO_LEMOS_COMPOSIÇÕES_MACAPA_CIDADE_FORTALEZA_CENTENARIO_CARD01",
+    "descricao": "hyperlapse;rotatoria da 13;13 setembro;transito;av fab;cruzamento;aerea cidade;orla;praca jaci barata;fortaleza sao jose;fortaleza linda;amanhecer;praca florino peixoto;norte sul noite;lapse note sul;duca sera",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240813_PAULO_LEMOS_COMPOSIÇÕES_MACAPA_CIDADE_FORTALEZA_CENTENARIO_CARD01"
+  },
+  {
+    "id": 4,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_MACAPA",
+    "descricao": "passarinho;pier santa ines;amanhecer;fortaleza sao jose;fortaleza linda;orla;estatua sao jose;praca beira rio;mercado central;por so sol;horizonte;navio;barco;ceu amarelado;trapiche;bondinho;igarape das mulhures;trabalhador;vendedor de paste;jaci barata;pessoas correndo;lixo na orla;portrait;acai;rampa do acai",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_MACAPA"
+  },
+  {
+    "id": 5,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_MACAPA_CIDADE_EQUIPE01",
+    "descricao": "orla;rio seco;barco;estatua sao jose;pier santa ines;centro;faixa pedestre;aerea cidade;onibus;fab;kitesurf;pescador;tarrafa;hyperlapse cidade;amanhecer;pessoas;parada de onibus;cachorro;transito noite;comercio;transito;caminhada;ciclista;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_MACAPA_CIDADE_EQUIPE01"
+  },
+  {
+    "id": 6,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_PIER_FORTALEZA_EQUIPE02",
+    "descricao": "pier santa ines;portrait barco;trabalhadores;fortaleza;por do sol;orla;calcada;crianca fortaleza;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240813_PAULO_LEMOS_COMPOSIÇÕES_ORLA_PIER_FORTALEZA_EQUIPE02"
+  },
+  {
+    "id": 7,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240814_PAULO_LEMOS_TIMELAPSE_MACAPÁ",
+    "descricao": "timelapse;macapa noite;rotatoria",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240814_PAULO_LEMOS_TIMELAPSE_MACAPÁ"
+  },
+  {
+    "id": 8,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240818_PAULO_LEMOS_ADESIVAÇO",
+    "descricao": "paulo lemos;adesiv\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)o;campanha;paulo interagindo",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240818_PAULO_LEMOS_ADESIVAÇO"
+  },
+  {
+    "id": 9,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240818_PAULO_LEMOS_COMPOSIÇÕES_ARAXA_DRONE_FPV_CARD01",
+    "descricao": "orla araxa;samauma;promotoria;rampa acai;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240818_PAULO_LEMOS_COMPOSIÇÕES_ARAXA_DRONE_FPV_CARD01"
+  },
+  {
+    "id": 10,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240819_PAULO_LEMOS_COMPOSIÇÕES_MARCO_ZERO_ORLA_RUA_TORTA_DRONE_FPV_CARD01",
+    "descricao": "rampa do acai;rua torta;praca meio do mundo;ciclista;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240821_PAULO_LEMOS_COMPOSIÇÕES_MARCO_ZERO_ORLA_RUA_TORTA_DRONE_FPV_CARD01"
+  },
+  {
+    "id": 11,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240820_PAULO_LEMOS_COMPOSICAO_JARDIM_DOS_OLIVEIRAS",
+    "descricao": "residencial;jardim dos oliveiras;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240820_PAULO_LEMOS_COMPOSICAO_JARDIM_DOS_OLIVEIRAS"
+  },
+  {
+    "id": 12,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240820_PAULO_LEMOS_COMPOSICOES_HOSPITAL_MUNICIPAL_MACAPABA_MIRACEMA_DRONE_CARD01",
+    "descricao": "novo he obras inicio;residencial;miracema;macapaba;caixa dgua;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240820_PAULO_LEMOS_COMPOSICOES_HOSPITAL_MUNICIPAL_MACAPABA_MIRACEMA_DRONE_CARD01"
+  },
+  {
+    "id": 13,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240821_PAULO_LEMOS_COMPOSIÇÕES_MARCO_ZERO_ORLA_RUA_TORTA_DRONE_FPV_CARD01",
+    "descricao": "rampa do acai;rua torta;praca meio do mundo;ciclista;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\ PAULO LEMOS\\ BRUTO\\ 240821_PAULO_LEMOS_COMPOSIÇÕES_MARCO_ZERO_ORLA_RUA_TORTA_DRONE_FPV_CARD01"
+  },
+  {
+    "id": 14,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240822_PAULO_LEMOS_COMPOSICOES_MEIO_DO_MUNDO_PROGAMA_01",
+    "descricao": "praca meio do mundo;estadio zerao;marco zero;monumento;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\ 240822_PAULO_LEMOS_COMPOSICOES_MEIO_DO_MUNDO_PROGAMA_01\\ 240822_PAULO_LEMOS_COMPOSICOES_MEIO_DO_MUNDO_PROGAMA_01_DRONE_FPV_CARD01"
+  },
+  {
+    "id": 15,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240823_PAULO_LEMOS_SONORA_PROGAMA_01",
+    "descricao": "residencial jardim dos oliveira;paulo lemos;programa 01;drone fpv",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO"
+  },
+  {
+    "id": 16,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240823_PAULO_LEMOS_SONORA_TARDE_PROGAMA_01",
+    "descricao": "paulo lemos parada onibus;parada de onibus;pessos esperando onibus;programa 01",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240823_PAULO_LEMOS_SONORA_TARDE_PROGAMA_01"
+  },
+  {
+    "id": 17,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240824_PAULO_LEMOS_COMPOSICOES_CIDADE_AEREAS",
+    "descricao": "rua torta;por do sol;orla;skate rua torta;motoqueiro rua torta;trapiche santa ines;mercado central;estatua sao jose;fortaleza;mercado central placa;barco;rio amazonas;praca jaci barata;mercado do pescado;praca zaguri;rampa do açai;trabalhadores embracacao;tratando peixe;praca dos povos;marco zero;praca meio do mundo;sambodromo;residencial sao jose;rotatoria 13;trabalhadores fortaleza;bandeira amapa;feira produtor;feira da 13;rotatoria;rua leopodo machado",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240824_PAULO_LEMOS_COMPOSICOES_CIDADE_AEREAS"
+  },
+  {
+    "id": 18,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240824_PAULO_LEMOS_COMPOSICOES_CIDADE_AEREAS_TARDE",
+    "descricao": "binario;rua cora de carvalho;campo gramado;praca de fatima;horto municipal;bandeira brasil;cidade drone;transito;rua padre julio;residencial miracema;cruzamento;ciclo via;passarela;br 210;santuario de fatima;rodovia norte e sul;casa de madeira;envasao;residencial macapaba;igreja",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240824_PAULO_LEMOS_COMPOSICOES_CIDADE_AEREAS_TARDE"
+  },
+  {
+    "id": 19,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240824_PAULO_LEMOS_COMPOSICOES_CIDADE_CAMERA",
+    "descricao": "shopping popular;feirante;feira da sao jose;empreendedor;vendedor;frutas;verduras;artezanato;mercado central interno;bioparque;animais;floresta;macaco;natureza;aventura;tiroleza;escalacao;rodovia jp;transito;rotatoria;rua hildermar maia;rodovia norte sul;rua cora de carvalho;rua padre julio;ruas da cidade;trapiche santa ines;cachorro;bracos;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240824_PAULO_LEMOS_COMPOSICOES_CIDADE_CAMERA"
+  },
+  {
+    "id": 20,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240824_PAULO_LEMOS_COMPOSICOES_CIDADE_PORTRAIT",
+    "descricao": "portrait bioparque;bioparque;portrait feira;feira;frutas;verduras;camarao;tucupi;acai;batedeira;portrait mercado;empreendedores",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240824_PAULO_LEMOS_COMPOSICOES_CIDADE_PORTRAIT"
+  },
+  {
+    "id": 21,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240824_PAULO_LEMOS_COMPOSICOES_TIMELAPSES_CIDADE",
+    "descricao": "hyperlapse cidade;hyperlapse binario;hyperlapse residencial miracema;hyperlapse norte sul;hyperlapse br 210;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240824_PAULO_LEMOS_COMPOSICOES_TIMELAPSES_CIDADE"
+  },
+  {
+    "id": 22,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240825_PAULO_LEMOS_COMPOSIÇÕES_PONTOS_TURISTICOS_CIDADE",
+    "descricao": "rampa do acai;orla;rio amazonas;futlama;pescador;tarrafa;pedalinho;praca floriano;praca dos povos;ciclista;praca meio do mundo;marco zero;ponto de onibus;bandeira brasil;trapiche santa ines;rampa santa ines;estatua de sao jose;fortaleza;aereo frente da cidade;macapa de cima;navio;desenbarcando;porto;praca do araxa;estacao de agua;praia;pessoas no rio;portrait pracas;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240825_PAULO_LEMOS_COMPOSIÇÕES_PONTOS_TURISTICOS_CIDADE"
+  },
+  {
+    "id": 23,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240825_PAULO_LEMOS_PROBLEMAS_SANEAMENTO_LIXO_HABITACAO",
+    "descricao": "orla do perpetuo socorro;rio amazonas;barcos;igarape das mulheres;feira perpetuo socorro;esgoto;mercado do pescado;feira do produtor;area de ressaca;pontes;residencial fazendinha;placa foriando pixada",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240825_PAULO_LEMOS_PROBLEMAS_SANEAMENTO_LIXO_HABITACAO"
+  },
+  {
+    "id": 24,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240826_PAULO_LEMOS_FEIRA_MALUCA_DRONE_CARD01",
+    "descricao": "feira maluca;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240826_PAULO_LEMOS_FEIRA_MALUCA_DRONE_CARD01"
+  },
+  {
+    "id": 25,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240826_PAULO_LEMOS_IMAGENS_ABERURA_PROGRAMA",
+    "descricao": "viaduto;rodovia norte sul;residencial congos;onibus;parada de onibus;area de resaca;ponte;trapiche santa ines;fotaleza;praca jaci barata;zaguri;centro;rua sao jose;trapiche elyezer elervi;ruas da cidade;canal do jandia;rua guanabara;cidade nova;ponte sergio arruda;av fab;rua general rondon;aerea cidade",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240826_PAULO_LEMOS_IMAGENS_ABERURA_PROGRAMA"
+  },
+  {
+    "id": 26,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240826_PAULO_LEMOS_TRANSPORTE_PUBLICO",
+    "descricao": "transporte publico;onibus;parada de onubus;pessoas no onibus;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240826_PAULO_LEMOS_TRANSPORTE_PUBLICO"
+  },
+  {
+    "id": 27,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240829_PAULO_LEMOS_COMPOSICOES_AREAS_CIDADE",
+    "descricao": "bioparque;corpo de bombeiros;binario;rua cora de carvalho;praca da conceicao;igreja da conceicao;faixa de pedreste;semafaro;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240829_PAULO_LEMOS_COMPOSICOES_AREAS_CIDADE"
+  },
+  {
+    "id": 28,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240901_PAULO_LEMOS_HE_SKATE_PARK",
+    "descricao": "skatepark;he;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240901_PAULO_LEMOS_HE_SKATE_PARK"
+  },
+  {
+    "id": 29,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240901_PAULO_LEMOS_SONORA_PGM_03",
+    "descricao": "fortaleza sao jose;por do sol;aerea cidade;mercado central;estatua sao jose;portrait skatista",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240901_PAULO_LEMOS_SONORA_PGM_03"
+  },
+  {
+    "id": 30,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240903_PAULO_LEMOS_COMPOSICAO_CIDADE_TIMELAPSE_FORTALEZA_MERCADO",
+    "descricao": "hyperlapse;hyperlapse fortaleza;hyperlapse cidade aerea;hyperlapse trapiche;hyperlapse mercado central;mercado central por do sol",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240903_PAULO_LEMOS_COMPOSICAO_CIDADE_TIMELAPSE_FORTALEZA_MERCADO"
+  },
+  {
+    "id": 31,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240903_PAULO_LEMOS_COMPOSICAO_ESCOLA_SAUDE_PORTRAIT",
+    "descricao": "paulo lemos;portrait ubs;portrait escola;enfermeira;aluna;professor;mae e filha",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240903_PAULO_LEMOS_COMPOSICAO_ESCOLA_SAUDE_PORTRAIT"
+  },
+  {
+    "id": 32,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240904_PAULO_LEMOS_PORTRAIT_PGM_04",
+    "descricao": "portrait;hyperlapse trapiche santa ines;hyperlapse marco zero",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240904_PAULO_LEMOS_PORTRAIT_PGM_04"
+  },
+  {
+    "id": 33,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240905_COMPOSICAO_FEIRA_DO_PESCADO",
+    "descricao": "feira do pescado;feirante;peixe;peixeiro;batedeira;acai;portrait",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240905_COMPOSICAO_FEIRA_DO_PESCADO"
+  },
+  {
+    "id": 34,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240905_PAULO_LEMOS_COMPOSICAO_AEREA",
+    "descricao": "cidade aerea noite;feira do pescado;mercado do pescado;peixe;peixeiro;camarao;trabalhador;empreendedor",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240905_PAULO_LEMOS_COMPOSICAO_AEREA"
+  },
+  {
+    "id": 35,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240905_PAULO_LEMOS_COMPOSICAO_EMPREGO",
+    "descricao": "costureira;sapateiro;trabalhadores;empreendedores;paulo lemos;portrait",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240905_PAULO_LEMOS_COMPOSICAO_EMPREGO"
+  },
+  {
+    "id": 36,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240905_PAULO_LEMOS_COMPOSICAO_EMPREGO_TARDE",
+    "descricao": "barbeiro;cabeleleiro;costureira;marceneiro;trabalhadores;empreendedores;portrait;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240905_PAULO_LEMOS_COMPOSICAO_EMPREGO_TARDE"
+  },
+  {
+    "id": 37,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240905_PAULO_LEMOS_COMPOSICAO_PADEIRO_COMERCIANTE",
+    "descricao": "padeiro;comerciante;maquina cartao;trabalhadores;empreendedores;portrait;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240905_PAULO_LEMOS_COMPOSICAO_PADEIRO_COMERCIANTE"
+  },
+  {
+    "id": 38,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240906_PAULO_LEMOS_SONORA_COMPOSICAO_PGM_04",
+    "descricao": "comerciante;mercado;produtos;aperto de mao;sino igreja;fortaleza;cidade aerea;por do sol;igreja conseicao;praca da conceicao;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240906_PAULO_LEMOS_SONORA_COMPOSICAO_PGM_04"
+  },
+  {
+    "id": 39,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240908_PAULO_LEMOS_BANDEIRADA",
+    "descricao": "por do sol; sol;equinocio;meio do mundo;praca dos povos;praca meio do mundo;estadio;bandeirada;paulo lemos;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240908_PAULO_LEMOS_BANDEIRADA"
+  },
+  {
+    "id": 40,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240909_PAULO_LEMOS_COMPOSICAO_LIXAO_QUILOMBOLA_LAPSE_CIDADE",
+    "descricao": "hyperlapse;cidade aerea;por do sol;lixeira publica;area quilombola;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240909_PAULO_LEMOS_COMPOSICAO_LIXAO_QUILOMBOLA_LAPSE_CIDADE"
+  },
+  {
+    "id": 41,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240916_PAULO_LEMOS_COMPOSICAO_CIDADE_AEREAS_UBS_BR210_DUCA_SERGIO_ARRUDA",
+    "descricao": "hyperlapse duca sera;hyperlapse aerea cidade;aeroporto;hyperlapse br 210;ponte sergio arruda;hyperlapse br 210 noite;hyperlapse aerea noite;ubs;aerea cidade;quadra de futebol;hyperlapse rotatoria;praca bandeira;parada de onibus;av fab;varias ubs",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240916_PAULO_LEMOS_COMPOSICAO_CIDADE_AEREAS_UBS_BR210_DUCA_SERGIO_ARRUDA"
+  },
+  {
+    "id": 42,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240917_PAULO_LEMOS_BANDEIRADA_COMPOSICAO_KITESURF",
+    "descricao": "bandeirada;paulo lemos;cidade aerea;por do sol;kitesurf;praca do perpetuo socorro;orla;rio amazonas",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240917_PAULO_LEMOS_BANDEIRADA_COMPOSICAO_KITESURF"
+  },
+  {
+    "id": 43,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240917_PAULO_LEMOS_COMPOSICAO_AVENIDAS_FAIXA_AZUL",
+    "descricao": "corpo de bombeiros;carro dos bombeiros; av mendonca junior;glicerio margues;binario;cora de carvalho;padre julio;novo he;inicio reforma novo he",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240917_PAULO_LEMOS_COMPOSICAO_AVENIDAS_FAIXA_AZUL"
+  },
+  {
+    "id": 44,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240917_PAULO_LEMOS_PGM_09",
+    "descricao": "motoqueiro;portrait motoqueiro;transito;paulo lemos;faixa azul",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240917_PAULO_LEMOS_PGM_09"
+  },
+  {
+    "id": 45,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240918_PAULO_LEMOS_COMPOSICAO_HIPHOP_MARABAIXO_PORTRAIT",
+    "descricao": "curiau;campo;bufalo;ciclista;lago;rio;natureza;estrada;marabaixo;roda de marabaixo;batuque;danca;portrait marabaixo;portrait;pessoas",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240918_PAULO_LEMOS_COMPOSICAO_HIPHOP_MARABAIXO_PORTRAIT"
+  },
+  {
+    "id": 46,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240919_PAULO_LEMOS_APOIADORES_SAUDE_PGM_08",
+    "descricao": "portrait;portrait emfermeira;ubs;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240919_PAULO_LEMOS_APOIADORES_SAUDE_PGM_08"
+  },
+  {
+    "id": 47,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240919_PAULO_LEMOS_COMPOSICAO_TYMELAPSE",
+    "descricao": "hyperlapse;ruas macapa;rua hamilton silva;rua claudomiro;transito;bandeirada paulo lemos;por do sol;cidade noite;aereo cidade",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240919_PAULO_LEMOS_COMPOSICAO_TYMELAPSE"
+  },
+  {
+    "id": 48,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240921_PAULO_LEMOS_JUVENTUDE",
+    "descricao": "paulo lemos juventude;bandeirada;jovens;portrait paulo lemos;pess\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)s;campanha",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240921_PAULO_LEMOS_JUVENTUDE"
+  },
+  {
+    "id": 49,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240924_PAULO_LEMOS_CIDADE_LINDA_DEPOIMENTO_AMBROSIO",
+    "descricao": "paulo lemos;hambrosio;santana;ponte;aerea de ressaca;menino e pipa;cachorro;bicicleta;ciclista;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240924_PAULO_LEMOS_CIDADE_LINDA_DEPOIMENTO_AMBROSIO"
+  },
+  {
+    "id": 50,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240924_PAULO_LEMOS_CLIPE_CIDADE_LINDA_COSTUREIRA",
+    "descricao": "costureira;portrait;maquina de costura;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240924_PAULO_LEMOS_CLIPE_CIDADE_LINDA_COSTUREIRA"
+  },
+  {
+    "id": 51,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240926_PAULO_LEMOS_CLIP_BARCO",
+    "descricao": "paulo lemos clip;barco;por do sol;embarcacao;rio amazonas;velejando;pintura barco",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240926_PAULO_LEMOS_CLIP_BARCO"
+  },
+  {
+    "id": 52,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240926_PAULO_LEMOS_ELETRICISTA_PGM_10",
+    "descricao": "portrait eletricista;companhia de eletricidade;paulo lemos",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240926_PAULO_LEMOS_ELETRICISTA_PGM_10"
+  },
+  {
+    "id": 53,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240927_PAULO_LEMOS_SONORA_PGM_11_12_TRAPICHE_CLECIO",
+    "descricao": "clecio e paulo lemos;clecio assinando;",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\BRUTO\\240927_PAULO_LEMOS_SONORA_PGM_11_12_TRAPICHE_CLECIO"
+  },
+  {
+    "id": 54,
+    "servidor": "GRITOMCP-03",
+    "pasta": "240801_CONVENCAO_PAULO_LEMOS",
+    "descricao": "convencao paulo lemos;paulo lemos discursando;paulo lemos e randolfe",
+    "local": "\\\\Gritomcp3\\grito\\BACKUP OWC THUNDERBAY\\CLIENTES (OWC)\\CAMPANHA PREFEITURA 2024\\PAULO LEMOS\\PROJETOS\\240801_CONVENCAO_PAULO_LEMOS\\BRUTO"
+  },
+  {
+    "id": 55,
+    "servidor": "thunderbay",
+    "pasta": "241208_RANDOLFE_FESTA_FIM_DE_ANO",
+    "descricao": "randolfe;skatepark;centro de zoonoses;telhado catedral;show thalles roberto;show fernandinho;show gospel;",
+    "local": "Z:\\CLIENTES (OWC)\\RANDOLFE\\241208_RANDOLFE_FESTA_FIM_DE_ANO\\BRUTO"
+  },
+  {
+    "id": 56,
+    "servidor": "thunderbay",
+    "pasta": "230427_PMS_DIA_D_VACINACAO",
+    "descricao": "santana;ubs picareira;atendimento;vacina;vacinacao;idoso;gravida;portrait;enfermeiro;exames;avó e neta;crianca;veiculo saude",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\230427_PMS_DIA_D_VACINACAO\\BRUTO"
+  },
+  {
+    "id": 57,
+    "servidor": "thunderbay",
+    "pasta": "230519_PMS_VACINACAO_CONTRA_A_GRIPE",
+    "descricao": "santana;policlinica maria tadeu aquiar;vacinacao;idoso;portrait de mascara;atendimento;enfermeiro;crianca;saude;bebe de colo;familia;van da vacinacao;motorista",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\230519_PMS_VACINACAO_CONTRA_A_GRIPE\\BRUTO"
+  },
+  {
+    "id": 58,
+    "servidor": "thunderbay",
+    "pasta": "230525_PMS_VAN_DA_VACINACAO",
+    "descricao": "santana;vacinacao;atendimento;enfermeiro;saude;van da vacinacao;motorista;ponte mazagao",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\230525_PMS_VAN_DA_VACINACAO\\BRUTO"
+  },
+  {
+    "id": 59,
+    "servidor": "thunderbay",
+    "pasta": "240118_PMS_CARNAVAL_DE_SANTANA_2024",
+    "descricao": "carnaval santana 2024;publico;festa;empreendedores;bala rocha;musicos;",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\240118_PMS_CARNAVAL_DE_SANTANA_2024\\BRUTO"
+  },
+  {
+    "id": 60,
+    "servidor": "thunderbay",
+    "pasta": "240130_PMS_ANIVERSARIO_POVOADO_SANTANA",
+    "descricao": "santana;barco;porto de santana;ilha de santana;igreja ilha santana;helicoptero;embarcacao;portrait ribeirinho;navio porto;por do sol;catraeiro",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\240130_PMS_ANIVERSARIO_POVOADO_SANTANA\\BRUTO"
+  },
+  {
+    "id": 61,
+    "servidor": "thunderbay",
+    "pasta": "240528_PMS_PARCERIA_GOV_E_SANTANA",
+    "descricao": "santana;passarela de concreto;area de ressaca;obras rodovia jp;maquinas;trabalhadores;ruas santana;av santana;santa ana;teatro silvio romero interno;ciclista;transito;praca;brinquedo;portrait;aperto de maos;portrait hospital de santana;portrait teatro;portrait escola;portrait santa;limpeza rua;escola fonte nova;aerea santana;asfalto;boquetes",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\240528_PMS_PARCERIA_GOV_E_SANTANA\\BRUTO"
+  },
+  {
+    "id": 62,
+    "servidor": "thunderbay",
+    "pasta": "240627_PMS_INAUGURACAO_TEATRO",
+    "descricao": "santana;teatro silvio romero;obras teatro;bailarina;portrait",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\240627_PMS_INAUGURACAO_TEATRO\\BRUTAS"
+  },
+  {
+    "id": 63,
+    "servidor": "thunderbay",
+    "pasta": "241010_PMS_OPERACAO_PORTO_DE_SANTANA",
+    "descricao": "bala rocha;operacao porto santana;fabrica;sorja;santana;porto santana;manganes",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\241010_PMS_OPERACAO_PORTO_DE_SANTANA\\BRUTO"
+  },
+  {
+    "id": 64,
+    "servidor": "thunderbay",
+    "pasta": "241010_PMS_OPERACAO_PORTO_DE_SANTANA_SOJA",
+    "descricao": "bala rocha;operacao porto santana;soja;fabrica;",
+    "local": ""
+  },
+  {
+    "id": 65,
+    "servidor": "thunderbay",
+    "pasta": "241125_PMS_VIVA_SANTANA_2024",
+    "descricao": "viva santana 2024;artesanato;dia do evangelico;bala rocha;bolo aniversario santana;cantata santana;aereo santana;esporte;futebol de areia;volei;competicao aquatica;kayak;afro marabatuque;evento inovatec;shows;maratona santana;santa;santa ana;av santana;santana sabores;comidas tipicas;chefe cozinha",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\241125_PMS_VIVA_SANTANA_2024\\BRUTO"
+  },
+  {
+    "id": 66,
+    "servidor": "thunderbay",
+    "pasta": "241130_PMS_VIVA_SANTANA_SABORES",
+    "descricao": "santana sabores;fotos dos pratos;pratos de comida;culinaria",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\241130_PMS_VIVA_SANTANA_SABORES\\BRUTO"
+  },
+  {
+    "id": 67,
+    "servidor": "thunderbay",
+    "pasta": "241217_PMS_GESTAO",
+    "descricao": "pretacao contas santana;bala rocha;terminal hidroviario;inicio de obras hidroviario;porto santana;embarcacao;teatro silvio romero;teatro pronto;asfalto;eventos;shows;atendimento;hospital santana;equipamnetos hospitalares;santana noite;cidade iluminada;afromarabatuque;ato profetico;dia do evangelico;cantata santana;corrida santana;remada do forte;santana sabores;ambrosio;passarelas;ponte;portrait santana;portuaria;praca digital;telefone celular;praca;parquinho;bala e randolfe;cursinho;prepara sanatana;terminal hidroviario;porto",
+    "local": "Z:\\CLIENTES (OWC)\\PREFEITURA DE SANTANA\\241217_PMS_GESTAO\\BRUTO"
+  },
+  {
+    "id": 68,
+    "servidor": "thunderbay",
+    "pasta": "241208_RANDOLFE_FESTA_FIM_DE_ANO",
+    "descricao": "randolfe feta fim de ano;shows;talles roberto;centro de zoonoses;telhado da catedral;sakatepark;trapiche fazendinha;catedral;hospital da mulher;maternidade;terminal hidroviario;porto sanatana;por do sol;praca civica;gospel;unacon;trabalhadores",
+    "local": "Z:\\CLIENTES (OWC)\\RANDOLFE\\241208_RANDOLFE_FESTA_FIM_DE_ANO\\BRUTO"
+  },
+  {
+    "id": 69,
+    "servidor": "thunderbay",
+    "pasta": "250108_RANDOLFE_ONDE_PRECISAR_SANTANA",
+    "descricao": "onde precisar santana;porto santana;randolfe povo;praca civica;santa ana;marabatuque;esporte fluviais;aquaticos",
+    "local": "Z:\\CLIENTES (OWC)\\RANDOLFE\\250108_RANDOLFE_ONDE_PRECISAR_SANTANA\\CENAS_EXTRAS"
+  },
+  {
+    "id": 70,
+    "servidor": "thunderbay",
+    "pasta": "230605_CLECIO_DIA_MUNDIAL_DO_MEIO_AMBIENTE",
+    "descricao": "dia mundial meio ambiente;natureza;cachoeira;pescador;rios;ribeirinho;por do sol;semafaro;marabaixeira",
+    "local": "Z:\\CLIENTES (OWC)\\CLECIO\\230605_CLECIO_DIA_MUNDIAL_DO_MEIO_AMBIENTE\\BRUTO"
+  },
+  {
+    "id": 71,
+    "servidor": "thunderbay",
+    "pasta": "241009_CLECIO_REFORMA DA FORTALEZA",
+    "descricao": "clecio;reforma da fortaleza;obra fortaleza",
+    "local": "Z:\\CLIENTES (OWC)\\CLECIO\\241009_CLECIO_REFORMA DA FORTALEZA\\BRUTO"
+  },
+  {
+    "id": 72,
+    "servidor": "thunderbay",
+    "pasta": "241011_CLECIO_REFORMA_ESCOLA_RUTH_BEZERRA",
+    "descricao": "clecio;reforma do ruth bezerra;trabalhadores;escola;reforma",
+    "local": "Z:\\CLIENTES (OWC)\\CLECIO\\241011_CLECIO_REFORMA_ESCOLA_RUTH_BEZERRA\\BRUTO"
+  },
+  {
+    "id": 73,
+    "servidor": "thunderbay",
+    "pasta": "241016_CLECIO_SOJA SANTANA",
+    "descricao": "clecio;bala rocha;soja;porto de santana",
+    "local": "Z:\\CLIENTES (OWC)\\CLECIO\\241016_CLECIO_SOJA SANTANA\\BRUTO"
+  },
+  {
+    "id": 74,
+    "servidor": "thunderbay",
+    "pasta": "241203_APPA_PROGRAMA_EDUCATIVO",
+    "descricao": "appa;reforma fortaleza;trabalhadores;entrevista;",
+    "local": "Z:\\CLIENTES (OWC)\\APPA\\241203_APPA_PROGRAMA_EDUCATIVO\\BRUTO"
+  }
+
+]
