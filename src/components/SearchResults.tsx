@@ -5,7 +5,7 @@ interface SearchResultsProps {
 }
 export function SearchResults({ results }: SearchResultsProps) {
   if (!results || results.length === 0) {
-    return <p>nenhum resultado encontrado!</p>
+    return <p className='text-center'>nenhum resultado encontrado!</p>
   }
   else {
     return (

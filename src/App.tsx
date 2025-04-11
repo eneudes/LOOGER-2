@@ -6,7 +6,7 @@ import { Item } from "./types/data";
 
 
 export function App() {
-  const [searchTerm, setSearchTerm] = useState<string>('');
+  const [, setSearchTerm] = useState<string>('');
   const [searchResults, setSearchResults] = useState<Item[]>([]);
 
   useEffect(() => {
