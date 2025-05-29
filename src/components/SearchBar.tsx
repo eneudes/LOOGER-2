@@ -15,7 +15,7 @@ export function SearchBar({ onSearch }: SearchbBarProps) {
     onSearch(searchTerm);
   };
   return (
-    <form onSubmit={handleSubmit} className='flex '>
+    <form onChange={handleSubmit} className='flex '>
       <input
         className='max-md:w-64 w-[640px] h-10 rounded-4xl rounded-br-none rounded-tr-none border border-zinc-700 px-3 focus:border-sky-500 focus:outline focus:bg-zinc-800'
         type="text"

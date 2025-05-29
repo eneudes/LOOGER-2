@@ -23,7 +23,7 @@ export function App() {
       <div className="max-md:flex-col max-md:gap-5 max-md:justify-center max-md:items-center max-md:w-full m-auto w-5xl flex py-12 items-center">
         <h1 className="pr-16 text-3xl">LOOGER</h1>
         <SearchBar onSearch={handleSearch} />
-      </div>
+      </div>     
       <SearchResults results={searchResults} />
     </div>
   )
